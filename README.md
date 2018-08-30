@@ -1,2 +1,3 @@
 # livesite
-后台
+
+py manage.py runserver
